@@ -1,7 +1,7 @@
 # UIKeyboardLayoutGuideExample
 An example project for [Guide for UIKeyboardLayoutGuide](https://artemnovichkov.com/blog/keyboard-layout-guide) article.
 
->  Note: The project works in Xcode 13.0 beta (13A5154h).
+[![Build](https://github.com/artemnovichkov/UIKeyboardLayoutGuideExample/actions/workflows/build.yml/badge.svg)](https://github.com/artemnovichkov/UIKeyboardLayoutGuideExample/actions/workflows/build.yml)
 
 <p align="center"/>
   <img src=".github/example.png"/>
