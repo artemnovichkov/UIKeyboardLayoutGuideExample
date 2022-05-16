@@ -1,5 +1,5 @@
 # UIKeyboardLayoutGuideExample
-An example project for [Guide for UIKeyboardLayoutGuide](https://blog.artemnovichkov.com/keyboard-layout-guide) article.
+An example project for [Guide for UIKeyboardLayoutGuide](https://artemnovichkov.com/blog/keyboard-layout-guide) article.
 
 >  Note: The project works in Xcode 13.0 beta (13A5154h).
 
@@ -9,9 +9,7 @@ An example project for [Guide for UIKeyboardLayoutGuide](https://blog.artemnovic
 
 ## Author
 
-Artem Novichkov, mail@artemnovichkov.com
-
-[![Contact me on Codementor](https://www.codementor.io/m-badges/artemnovichkov/im-a-cm-b.svg)](https://www.codementor.io/@artemnovichkov?refer=badge)
+Artem Novichkov, https://www.artemnovichkov.com/about
 
 ## License
 
